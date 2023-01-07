@@ -52,7 +52,7 @@ It has the following functionality -
   cd server/
   npm start
 ```
-Start the Client
+6. Start the Client
 
 ```bash
   //open new terminal
