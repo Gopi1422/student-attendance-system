@@ -18,7 +18,7 @@ It has the following functionality -
 
 ## Run Locally
 
-###  Start Main(Chatroom) Module:
+###  Start Main Module:
 
 1. Clone the project
 
