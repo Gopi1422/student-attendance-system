@@ -18,8 +18,6 @@ It has the following functionality -
 
 ## Run Locally
 
-###  Start Main Module:
-
 1. Clone the project
 
 ```bash
